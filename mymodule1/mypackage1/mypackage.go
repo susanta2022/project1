@@ -2,6 +2,6 @@ package mypackage
 
 import "fmt"
 
-func PrintHello() {
+func PrintModule() {
 	fmt.Println("Hello, Modules! This is mypackage speaking!")
 }
